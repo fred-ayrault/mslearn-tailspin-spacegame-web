@@ -12,7 +12,7 @@ steps:
   displayName: Use .NET Core SDK 5
   inputs:
     packageType: sdk
-    version: 5.0
+    version: 5.0.5
 - task: Npm@1
   displayName: Run npm install
   inputs:

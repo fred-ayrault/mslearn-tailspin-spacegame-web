@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/STPAULBTSSIOSLAM/SGW-WORKFLOW/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/STPAULBTSSIOSLAM/SGW-WORKFLOW/_build/latest?definitionId=24&branchName=main)
 
 # Contributing
 
